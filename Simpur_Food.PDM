@@ -1,0 +1,277 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\pack
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+craxdrt.dll=C:\Program Files\Seagate Software\Report Designer Component\craxdrt.dll
+
+[Package|Standard Setup Package 1|Files Released]
+PG32CONV.DLL=
+SSCSDK80.DLL=
+pj.jpg=
+exe.exe=
+banner3.1.jpg=
+09.jpg=
+4.jpg=
+3.jpg=
+1.jpg=
+sm.mdb=
+mssccprj.scc=
+path_foto.txt=
+path.txt=
+banner.swf=
+banner.jpg=
+banner5.swf=
+banner4.swf=
+banner2.swf=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\system32\Macromed\Flash\Flash.ocx=
+C:\Program Files\Common Files\System\ado\msado21.tlb=
+F:\sm_f\exe.exe=
+C:\WINDOWS\system32\Flash.ocx=
+C:\Program Files\Seagate Software\Report Designer Component\craxdrt.dll=
+D:\sm_f\exe.exe=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\tdbgpp.dll=
+C:\WINDOWS\system32\xarraydb.ocx=
+C:\WINDOWS\system32\Todgub6.DLL=
+C:\WINDOWS\system32\todg6.ocx=
+C:\WINDOWS\system32\msmask32.ocx=
+
+[Package|Standard Setup Package 1|Files Added]
+d:\sm_f\banner2.swf=
+d:\sm_f\banner4.swf=
+d:\sm_f\banner5.swf=
+d:\sm_f\banner.jpg=
+d:\sm_f\banner.swf=
+d:\sm_f\path.txt=
+d:\sm_f\path_foto.txt=
+d:\sm_f\mssccprj.scc=
+d:\sm_f\sm.mdb=
+d:\sm_f\1.jpg=
+d:\sm_f\3.jpg=
+d:\sm_f\4.jpg=
+d:\sm_f\09.jpg=
+d:\sm_f\banner3.1.jpg=
+d:\sm_f\exe.exe=
+d:\sm_f\pj.jpg=
+D:\sm_f\path_lap.txt=
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\program files\seagate software\report designer component\craxddrt.dll=
+c:\program files\seagate software\report designer component\craxdrt.dll=
+f:\sm_f\exe.exe=
+d:\sm_f\09.jpg=
+d:\sm_f\1.jpg=
+d:\sm_f\3.jpg=
+d:\sm_f\4.jpg=
+d:\sm_f\banner.jpg=
+d:\sm_f\banner.swf=
+d:\sm_f\banner2.swf=
+d:\sm_f\banner3.1.jpg=
+d:\sm_f\banner4.swf=
+d:\sm_f\banner5.swf=
+d:\sm_f\exe.exe=
+d:\sm_f\pj.jpg=
+c:\windows\system32\crpe32.dll=
+c:\program files\seagate software\viewers\activexviewer\crviewer.dll=
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\OLEPRO32.DLL=Yes
+C:\WINDOWS\system32\AsycFilt.dll=Yes
+C:\WINDOWS\system32\StdOle2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado21.tlb=Yes
+C:\WINDOWS\system32\xarraydb.ocx=Yes
+C:\WINDOWS\system32\tdbg6.ocx=Yes
+C:\WINDOWS\system32\tdbgpp.dll=Yes
+C:\WINDOWS\system32\COMCTL32.OCX=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\todg6.ocx=Yes
+C:\WINDOWS\system32\Todgub6.DLL=Yes
+C:\WINDOWS\system32\Crystl32.OCX=Yes
+C:\WINDOWS\system32\crpe32.dll=No
+D:\sm_f\BANNER2.swf=No
+D:\sm_f\BANNER4.swf=No
+D:\sm_f\BANNER5.swf=No
+D:\sm_f\BANNER.jpg=No
+D:\sm_f\BANNER.swf=No
+D:\sm_f\path.txt=Yes
+D:\sm_f\path_foto.txt=Yes
+D:\sm_f\MSSCCPRJ.SCC=Yes
+D:\sm_f\sm.mdb=Yes
+D:\sm_f\1.jpg=No
+D:\sm_f\3.jpg=No
+D:\sm_f\4.jpg=No
+D:\sm_f\09.JPG=No
+D:\sm_f\banner3.1.jpg=No
+D:\sm_f\exe.exe=No
+D:\sm_f\pj.jpg=No
+D:\sm_f\Simpur_Food.exe=Yes
+C:\WINDOWS\system32\Flash.ocx=Yes
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=No
+C:\Program Files\Seagate Software\Report Designer Component\craxdrt.dll=Yes
+D:\sm_f\path_lap.txt=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+F:\sm_f\Simpur_Food.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\AsycFilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\StdOle2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado21.tlb=$(WinSysPath)
+C:\WINDOWS\system32\xarraydb.ocx=$(WinSysPath)
+C:\WINDOWS\system32\tdbg6.ocx=$(WinSysPath)
+C:\WINDOWS\system32\tdbgpp.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\Macromed\Flash\Flash.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+F:\sm_f\BANNER2.swf=$(AppPath)
+F:\sm_f\BANNER4.swf=$(AppPath)
+F:\sm_f\BANNER5.swf=$(AppPath)
+F:\sm_f\BANNER.jpg=$(AppPath)
+F:\sm_f\BANNER.swf=$(AppPath)
+F:\sm_f\path.txt=$(AppPath)
+F:\sm_f\path_foto.txt=$(AppPath)
+F:\sm_f\MSSCCPRJ.SCC=$(AppPath)
+F:\sm_f\sm.mdb=$(AppPath)
+C:\WINDOWS\system32\todg6.ocx=$(WinSysPath)
+C:\WINDOWS\system32\Todgub6.DLL=$(WinSysPathSysFile)
+F:\sm_f\1.jpg=$(AppPath)
+F:\sm_f\3.jpg=$(AppPath)
+F:\sm_f\4.jpg=$(AppPath)
+F:\sm_f\09.JPG=$(AppPath)
+F:\sm_f\banner3.1.jpg=$(AppPath)
+F:\sm_f\exe.exe=$(WinSysPath)
+F:\sm_f\pj.jpg=$(AppPath)
+C:\WINDOWS\system32\Flash.ocx=$(WinSysPath)
+D:\sm_f\Simpur_Food.exe=$(AppPath)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Report Designer Component\craxdrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\Crystl32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Report Designer Component\craxddrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\Implode.dll=$(AppPath)
+C:\WINDOWS\system32\Crpaig80.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2smon.dll=$(WinSysPath)
+D:\sm_f\BANNER2.swf=$(AppPath)
+D:\sm_f\BANNER4.swf=$(AppPath)
+D:\sm_f\BANNER5.swf=$(AppPath)
+D:\sm_f\BANNER.jpg=$(AppPath)
+D:\sm_f\BANNER.swf=$(AppPath)
+D:\sm_f\path.txt=$(AppPath)
+D:\sm_f\path_foto.txt=$(AppPath)
+D:\sm_f\MSSCCPRJ.SCC=$(AppPath)
+D:\sm_f\sm.mdb=$(AppPath)
+D:\sm_f\1.jpg=$(AppPath)
+D:\sm_f\3.jpg=$(AppPath)
+D:\sm_f\4.jpg=$(AppPath)
+D:\sm_f\09.JPG=$(AppPath)
+D:\sm_f\banner3.1.jpg=$(AppPath)
+D:\sm_f\exe.exe=$(WinSysPath)
+D:\sm_f\pj.jpg=$(AppPath)
+C:\NF\Simpur_Food.exe=$(AppPath)
+D:\sm_f\path_lap.txt=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+F:\sm_f\Simpur_Food.exe=No
+F:\sm_f\BANNER2.swf=No
+F:\sm_f\BANNER4.swf=No
+F:\sm_f\BANNER5.swf=No
+F:\sm_f\BANNER.jpg=No
+F:\sm_f\BANNER.swf=No
+F:\sm_f\path.txt=No
+F:\sm_f\path_foto.txt=No
+F:\sm_f\MSSCCPRJ.SCC=No
+F:\sm_f\sm.mdb=No
+F:\sm_f\1.jpg=No
+F:\sm_f\3.jpg=No
+F:\sm_f\4.jpg=No
+F:\sm_f\09.JPG=No
+F:\sm_f\banner3.1.jpg=No
+F:\sm_f\pj.jpg=No
+D:\sm_f\Simpur_Food.exe=No
+C:\WINDOWS\system32\Implode.dll=No
+D:\sm_f\BANNER2.swf=No
+D:\sm_f\BANNER4.swf=No
+D:\sm_f\BANNER5.swf=No
+D:\sm_f\BANNER.jpg=No
+D:\sm_f\BANNER.swf=No
+D:\sm_f\path.txt=No
+D:\sm_f\path_foto.txt=No
+D:\sm_f\MSSCCPRJ.SCC=No
+D:\sm_f\sm.mdb=No
+D:\sm_f\1.jpg=No
+D:\sm_f\3.jpg=No
+D:\sm_f\4.jpg=No
+D:\sm_f\09.JPG=No
+D:\sm_f\banner3.1.jpg=No
+D:\sm_f\pj.jpg=No
+C:\NF\Simpur_Food.exe=No
+D:\sm_f\path_lap.txt=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=varian
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Project1
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Project1]
+Icon1=Simpur_Food.exe
+Title1=Simpur Food
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=d:\pack
+ProjectFolder=D:\sm_f
+ServerSideCab=
+File1=d:\pack\setup.exe
+File2=d:\pack\Setup.Lst
+File3=d:\pack\Simpur_Food.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

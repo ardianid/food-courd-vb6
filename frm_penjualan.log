@@ -1,0 +1,12 @@
+Line 90: Class TrueDBGrid60.TDBGrid of control grd_counter was not a loaded control class.
+Line 263: Class TrueDBGrid60.TDBGrid of control grd_barang was not a loaded control class.
+Line 423: Class TrueDBGrid60.TDBGrid of control grd_daftar was not a loaded control class.
+Line 431: Class MSComCtl2.DTPicker of control dtp_tgl was not a loaded control class.
+Line 93: The property name OleObjectBlob in grd_counter is invalid.
+Line 266: The property name OleObjectBlob in grd_barang is invalid.
+Line 426: The property name OleObjectBlob in grd_daftar is invalid.
+Line 437: The property name _ExtentX in dtp_tgl is invalid.
+Line 438: The property name _ExtentY in dtp_tgl is invalid.
+Line 439: The property name _Version in dtp_tgl is invalid.
+Line 449: The property name Format in dtp_tgl is invalid.
+Line 450: The property name CurrentDate in dtp_tgl is invalid.

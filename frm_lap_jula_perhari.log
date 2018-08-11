@@ -1,0 +1,9 @@
+Line 44: Class Crystal.CrystalReport of control rpt was not a loaded control class.
+Line 47: The property name _ExtentX in rpt is invalid.
+Line 48: The property name _ExtentY in rpt is invalid.
+Line 49: The property name _Version in rpt is invalid.
+Line 50: The property name WindowControlBox in rpt is invalid.
+Line 51: The property name WindowMaxButton in rpt is invalid.
+Line 52: The property name WindowMinButton in rpt is invalid.
+Line 53: The property name PrintFileLinesPerPage in rpt is invalid.
+Line 54: The property name WindowShowPrintSetupBtn in rpt is invalid.

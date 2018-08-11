@@ -1,0 +1,23 @@
+Line 44: Class TrueDBGrid60.TDBGrid of control grd_daftar was not a loaded control class.
+Line 102: Class MSMask.MaskEdBox of control msk_tgl was not a loaded control class.
+Line 124: Class MSMask.MaskEdBox of control msk_jam was not a loaded control class.
+Line 146: Class MSMask.MaskEdBox of control msk_jam1 was not a loaded control class.
+Line 47: The property name OleObjectBlob in grd_daftar is invalid.
+Line 108: The property name _ExtentX in msk_tgl is invalid.
+Line 109: The property name _ExtentY in msk_tgl is invalid.
+Line 110: The property name _Version in msk_tgl is invalid.
+Line 111: The property name MaxLength in msk_tgl is invalid.
+Line 121: The property name Mask in msk_tgl is invalid.
+Line 122: The property name PromptChar in msk_tgl is invalid.
+Line 130: The property name _ExtentX in msk_jam is invalid.
+Line 131: The property name _ExtentY in msk_jam is invalid.
+Line 132: The property name _Version in msk_jam is invalid.
+Line 133: The property name MaxLength in msk_jam is invalid.
+Line 143: The property name Mask in msk_jam is invalid.
+Line 144: The property name PromptChar in msk_jam is invalid.
+Line 152: The property name _ExtentX in msk_jam1 is invalid.
+Line 153: The property name _ExtentY in msk_jam1 is invalid.
+Line 154: The property name _Version in msk_jam1 is invalid.
+Line 155: The property name MaxLength in msk_jam1 is invalid.
+Line 165: The property name Mask in msk_jam1 is invalid.
+Line 166: The property name PromptChar in msk_jam1 is invalid.
